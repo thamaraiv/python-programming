@@ -4,4 +4,4 @@ a=input("enter the value")
     elif(a==0):
              print("0")
     else:
-             print("negative")
+             print("Negative")
